@@ -75,3 +75,11 @@ Model accuracy and efficiency Technical metrics allow you to judge whether or no
 
 -OpenAI is one of the leading AI research organizations in the world, but it is not alone in its quest to push the boundaries of artificial intelligence. Several other companies and research labs are also working on developing cutting-edge AI technologies and models. These competitors are shaping the future of AI and are playing a critical role in driving innovation and advancing the field. Other competitors of OpenAI include Adept, Google, Microsoft, Stability AI, Character.AI, Beautiful.ai, Predictive AI, DeepMind, Cortex AI, Bonsai AI, Xnor.ai, DeepMind, and Vicarious. All of these companies are actively working on developing their own AI technologies and models, and they are shaping the future of AI. OpenAI is not the only AI research organization in the world. Several other companies and research labs are also working on developing cutting-edge AI technologies and models. These competitors are shaping the future of AI and are playing a critical role in driving innovation and advancing the field. The competition among these companies is likely to intensify in the coming years, which will result in more breakthroughs and advancements in AI technology.
 
+#Sources :
+https://openai.com/about/
+https://community.openai.com
+linkedin.com
+wikipedia
+satckshare.io
+https://www.washingtonpost.com/technology/2023/02/06/what-is-openai-chatgpt/
+https://www.theinformation.com/topics/openai
